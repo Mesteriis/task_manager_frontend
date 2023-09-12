@@ -84,7 +84,8 @@ __pypackages__/
 celerybeat-schedule
 celerybeat.pid
 *.sage.py
-.env
+# Специально включено что бы вам было проще
+#.env
 .venv
 env/
 venv/
